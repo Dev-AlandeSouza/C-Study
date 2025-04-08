@@ -12,3 +12,4 @@ c:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep01\obj\Debug\net9.0\refint\Stu
 c:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep01\obj\Debug\net9.0\Studying-Csharp-Ep01.pdb
 c:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep01\obj\Debug\net9.0\Studying-Csharp-Ep01.genruntimeconfig.cache
 c:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep01\obj\Debug\net9.0\ref\Studying-Csharp-Ep01.dll
+c:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep01\obj\Debug\net9.0\Studying-Csharp-Ep01.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.AssemblyInfo.cs
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.sourcelink.json
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\bin\Debug\net9.0\Studying-Csharp-Ep04.exe
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\bin\Debug\net9.0\Studying-Csharp-Ep04.deps.json
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\bin\Debug\net9.0\Studying-Csharp-Ep04.runtimeconfig.json
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\bin\Debug\net9.0\Studying-Csharp-Ep04.dll
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\bin\Debug\net9.0\Studying-Csharp-Ep04.pdb
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.dll
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\refint\Studying-Csharp-Ep04.dll
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.pdb
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\Studying-Csharp-Ep04.genruntimeconfig.cache
+C:\Users\Alan\Documents\C#Study\Studying-Csharp-Ep04\obj\Debug\net9.0\ref\Studying-Csharp-Ep04.dll
